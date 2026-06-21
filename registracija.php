@@ -131,5 +131,10 @@ if(isset($_POST['registracija']))
 
 </main>
 
+<footer>
+    <hr>
+    <p>Kristian Pirc | kpirc@tvz.hr | 2026.</p>
+</footer> 
+
 </body>
 </html>

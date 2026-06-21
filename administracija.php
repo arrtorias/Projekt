@@ -201,5 +201,10 @@ else if($uspjesnaPrijava && !$admin)
 
 </main>
 
+<footer>
+    <hr>
+    <p>Kristian Pirc | kpirc@tvz.hr | 2026.</p>
+</footer> 
+
 </body>
 </html>

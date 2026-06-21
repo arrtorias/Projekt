@@ -4,6 +4,8 @@ session_start();
 
 ?>
 
+<!DOCTYPE html>
+<html lang="hr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -87,6 +89,11 @@ session_start();
     <a href="registracija.php">Registrirajte se ovdje</a>
 
 </main>
+
+<footer>
+    <hr>
+    <p>Kristian Pirc | kpirc@tvz.hr | 2026.</p>
+</footer> 
 
 </body>
 </html>
